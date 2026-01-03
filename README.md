@@ -12,3 +12,5 @@
 ## Информация о данных:
 * папка "project" - файл проекта (ipynb)  
 * папка "graphs" - построенные графики
+* файл "dst-3.0_16_1_hh_database.zip" - база резюме (доступен по ссылке: https://drive.google.com/file/d/1GStXdQ57x76cYcZUnGiUv02EeLUVJBl7/view?usp=drive_link)
+* файл "ExchangeRates.zip" - курсы валют (доступен по ссылке: https://drive.google.com/file/d/1yjg4aXXAVpjCVGm6oO6_TU0FvQqvOtQJ/view?usp=drive_link)
